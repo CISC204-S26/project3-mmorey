@@ -19,7 +19,7 @@ color = Color(0, 0, 0.48452926, 1)
 position = Vector2(545, 341)
 
 [node name="Head" type="Sprite2D" parent="CharacterArea" unique_id=882431909]
-position = Vector2(0, -140)
+position = Vector2(0, -160)
 
 [node name="Body" type="Sprite2D" parent="CharacterArea" unique_id=632967424]
 
